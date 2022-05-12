@@ -1,4 +1,21 @@
 export default function createXmasTree(height) {
+  let tree = [];
+
+  for(let i = 0; i < height; i++)
+    tree.push(
+      '*'.padStart(i+1,'*').padStart(height,'_').padEnd(height+i,'*').padEnd(2*height-1,'_')
+    )
+  
+  let tronco = tree[0].replace('*', '#');
+  tree.push(tronco, tronco);
+  return tree.join('\n');
+}
+
+/*
+*** FIRST APPROACH ***
+*/
+/*
+export default function createXmasTree(height) {
   let maxLong = height * 2 - 1;
   let maxLongDiv2 = Math.floor(maxLong / 2);
   let arbol = Array(height);
@@ -11,3 +28,4 @@ export default function createXmasTree(height) {
   arbol.push(tronco, tronco);
   return arbol.join("\n");
 }
+*/
