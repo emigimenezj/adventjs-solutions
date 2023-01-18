@@ -1,5 +1,5 @@
 # AdventJS (https://adventjs.dev/)
-« AdventJS » es una página web creada por midudev que ofrece 25 retos para realizar con JavaScript. Está destinada a una comunidad de programación de habla hispana por lo que no cuenta con traducción a otros lenguajes actualmente. Estas son las soluciones que yo hice para cada uno de los retos que dejo listados a continuación.
+« AdventJS » es una página web creada por midudev que ofrece retos de programación para realizar con JavaScript y/o TypeScript. Está destinada a una comunidad de programación de habla hispana, sin embargo hay algunas ediciones que ya cuentan con traducción al inglés. Estas son las soluciones que hice para cada uno de los retos en todas las ediciones.
 
 ## AdventJS 2022
 |Facil :seedling:|Normal :raised_hands:|Difícil :fire:|
@@ -13,9 +13,6 @@
 |[RETO 18](https://adventjs.dev/es/challenges/2022/18) :white_check_mark:|[RETO 15](https://adventjs.dev/es/challenges/2022/15) :white_check_mark:||
 |[RETO 19](https://adventjs.dev/es/challenges/2022/19) :white_check_mark:|[RETO 17](https://adventjs.dev/es/challenges/2022/17) :white_check_mark:||
 |[RETO 22](https://adventjs.dev/es/challenges/2022/22) :white_check_mark:|[RETO 21](https://adventjs.dev/es/challenges/2022/21) :white_check_mark:||
-|[RETO 22](https://adventjs.dev/es/challenges/2022/1) :white_check_mark:|||
-|[RETO 24](https://adventjs.dev/es/challenges/2022/1) :white_check_mark:|||
-|[RETO 25](https://adventjs.dev/es/challenges/2022/1) :white_check_mark:|||
 
 ## AdventJS 2021
 
