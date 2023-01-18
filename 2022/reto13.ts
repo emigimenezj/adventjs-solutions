@@ -1,4 +1,4 @@
-export function getFilesToBackup(lastBackup: number, changes: number[][]) {
+export function getFilesToBackup(lastBackup: number, changes: number[][]): number[] {
   return [...new Set(
     changes
       .filter(([_, t]) => t > lastBackup)
