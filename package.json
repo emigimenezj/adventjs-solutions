@@ -1,0 +1,23 @@
+{
+  "name": "adventjs-solutions",
+  "version": "1.0.0",
+  "description": "« AdventJS » es una página web creada por midudev que ofrece 25 retos para realizar con JavaScript. Está destinada a una comunidad de programación de habla hispana por lo que no cuenta con traducción a otros lenguajes actualmente. Estas son las soluciones que yo hice para cada uno de los retos que dejo listados a continuación.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emigimenezj/adventjs-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emigimenezj/adventjs-solutions/issues"
+  },
+  "homepage": "https://github.com/emigimenezj/adventjs-solutions#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
